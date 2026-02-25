@@ -1,0 +1,5 @@
+Execution Results:
+
+The Playwright TypeScript test file 'tests/epam.spec.ts' was generated in this branch.
+
+Execution was not performed within this environment because running Playwright tests requires a runtime environment with browser support and the ability to execute npm commands. The Playwright MCP toolkit required by the test scenario is not available through the provided GitHub toolkit. Please run the tests locally or in CI (e.g., GitHub Actions) using the included 'package.json' and the provided GitHub Actions workflow template (if added).
